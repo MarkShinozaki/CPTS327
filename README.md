@@ -17,10 +17,6 @@ Passcode: 8948
 
 > **IMPORTANT:** Visit the course "More Information" page to review details about textbooks, course materials, media, proctor requirements, and any fees associated with this course.
 
-**Teaching Assistant:** Dheeraj Vurukuti  
-**Email:** [dheeraj.vurukuti@wsu.edu](mailto:dheeraj.vurukuti@wsu.edu)  
-**Office hours:** Email for an appointment  
-
 ### Course Overview
 Examines cyber vulnerabilities and attacks against computer systems and networks; includes security protection mechanisms, cryptography, secure communication protocols, information flow enforcement, network monitoring, and anonymity techniques.
 
