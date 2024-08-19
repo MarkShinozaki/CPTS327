@@ -1,5 +1,5 @@
 # Course Syllabus
-## CPT-S 327: Computer Security
+## CPTS 327: Computer Security
 
 ### Course Details
 **Instructor:** Ananth Jillepalli  
